@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<h3 align="center">A passionate Full stack developer and a Machience Learning Enthuiast</h3>
+<h3 align="center">A passionate Full stack developer and a Machine Learning Enthuiast</h3>
 
 - 🔭 I’m currently working on [GAN's](https://www.google.com/)
 
