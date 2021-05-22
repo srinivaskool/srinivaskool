@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 <h3 align="center">A passionate Full stack developer and a Machine Learning Enthuiast</h3>
 
-- 🔭 I’m currently working on [GAN's](https://www.google.com/)
+- 🔭 I’m currently working on [GAN's Implementation](https://github.com/srinivaskool/4-GANs-Implementations)
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on [Flutter](https://www.google.com/)
+- 👯 I’m looking to collaborate on [Flutter](https://flutter.dev/)
 
-- 🤝 I’m looking for help with [AWS](https://www.google.com/)
+- 🤝 I’m looking for help with [AWS](https://aws.amazon.com/console/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/srinivaskool](https://github.com/srinivaskool)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/srinivaskool)
 
-- 📝 I regularly write articles on [here also](here also)
+- 📝 I regularly write articles on [Medium](https://srinivask-bits.medium.com/)
 
-- 💬 Ask me about **React,Deep Learning,Node,**
+- 💬 Ask me about **React JS, Deep Learning, Node, MongoDB**
 
 - 📫 How to reach me **srinivask.bits@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JtcicKYVeI1BFZKWXO1-JaxsieAzOy9o/view?usp=sharing](https://drive.google.com/file/d/1JtcicKYVeI1BFZKWXO1-JaxsieAzOy9o/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1JtcicKYVeI1BFZKWXO1-JaxsieAzOy9o/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -25,10 +25,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/srinivas-konduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-konduri" height="30" width="40" /></a>
 <a href="https://codesandbox.com/srinivas-konduri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="srinivas-konduri" height="30" width="40" /></a>
+<a href="https://srinivask-bits.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/medium.svg" alt="srinivas-konduri" height="30" width="40" /></a>
 <a href="https://kaggle.com/srinivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="srinivas" height="30" width="40" /></a>
-<a href="https://fb.com/srinivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="srinivas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/f20170746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="f20170746" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhonibest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="dhonibest" height="30" width="40" /></a>
+<a href="https://www.facebook.com/srinivas.koool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/facebook.svg" alt="srinivas" height="30" width="40" /></a>
+<a href="https://leetcode.com/f20170746/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/leet-code.svg" alt="f20170746" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dhonibest/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/geeks-for-geeks.svg" alt="dhonibest" height="30" width="40" /></a>
+<a href="https://learn-with-srinivas.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/blogger.svg" alt="Srinivas Blogger" height="30" width="40" /></a>  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
